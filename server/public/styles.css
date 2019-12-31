@@ -12,17 +12,6 @@ body{
   margin: 0;
 }
 
-.firework-head{
-  height: 70vmin;
-  width : 90vmin;
-  background-image: url('./images/fireworks-gif.gif');
-  display: inline-block;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position-y: center;
-  position: absolute;
-  z-index: 1;
-}
 
 .head {
   height: 80vmin;
